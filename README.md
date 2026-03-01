@@ -115,21 +115,21 @@ CNN-CIFAR10/
 
 1. Clone the repository:
 
-   ```bash
-git clone <repository-link>
+```bash
+git clone <https://github.com/ashifa-1/CNN-CIFAR10>
 cd CNN-CIFAR10
 ```
 
 2. Create a virtual environment:
 
-   ```bash
+```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
 3. Install dependencies:
 
-   ```bash
+```bash
 pip install -r requirements.txt
 ```
 
